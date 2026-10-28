@@ -145,3 +145,7 @@ Compatibility depends on addon version.  The inherited upstream list follows; ma
 1. ZygorGuidesViewer
 1. ZygorTalentAdvisor
 1. Quick DKP V2
+
+## Other addons by SuttonX
+
+- [Locksmith](https://github.com/SuttonX/Locksmith): Modifier-click lockbox unlocking and a compact key and Seaforium selection window for Rogues, Blacksmiths, and Engineers.
